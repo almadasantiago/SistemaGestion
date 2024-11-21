@@ -12,12 +12,14 @@ public class Categoria {
         this.Descripcion = descripcion; 
         this.FechaCreacion = fechaCreacion; 
         this.IdCategoria = IdCategoria; 
+        CategoriaValidador.Validar(this);
     } 
     public Categoria(string nombre, string descripcion,DateTime fechaCreacion) { 
         this.Nombre= nombre; 
         this.Descripcion = descripcion; 
         this.FechaCreacion = fechaCreacion; 
         this.IdCategoria =0; 
+        CategoriaValidador.Validar(this);
     } 
 
 }

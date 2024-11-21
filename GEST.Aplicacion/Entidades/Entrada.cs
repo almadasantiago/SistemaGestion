@@ -15,7 +15,8 @@ public class Entrada {
         this.EmailAsociado =emailasociado; 
         this.Fecha = fecha; 
         this.IdEntrada = IdEntrada; 
-        this.IdCategoria = IdCategoria; 
+        this.IdCategoria = IdCategoria;
+        EntradaValidador.Validar(this); 
     } 
    public Entrada(string nombre, string descripcion, string emailasociado, DateTime fecha,int IdEntrada) { 
         this.Nombre= nombre; 
@@ -23,7 +24,8 @@ public class Entrada {
         this.EmailAsociado =emailasociado; 
         this.Fecha = fecha; 
         this.IdEntrada = IdEntrada;
-        this.IdCategoria=0; 
+        this.IdCategoria=0;
+        EntradaValidador.Validar(this); 
    }
 
 }

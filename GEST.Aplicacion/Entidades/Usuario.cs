@@ -8,7 +8,7 @@ public class Usuario {
     public int? IdUsuario {get; set;} 
 
     public Usuario() { 
-        
+        Permisos = new List<string>();
     }
     public Usuario(string nombre, string apellido, string email, string password) { 
             this.Permisos = new List<string> {"Lectura"};
@@ -16,6 +16,8 @@ public class Usuario {
             this.Apellido = apellido;
             this.Email=email;
             this.Password= password; 
+            
+            UsuarioValidador.Validar(this);
     } 
     public Usuario(string nombre, string apellido, string email, string password, int IdUsuario, List<string>? permisos) { 
             this.Nombre= nombre; 
@@ -23,6 +25,9 @@ public class Usuario {
             this.Email=email;
             this.Password= password; 
             this.IdUsuario= IdUsuario;
+
+            this.Permisos= permisos ?? new List<string> <string> {"Lectura"};
+            UsuarioValidador.Validar(this); 
     } 
 
 
