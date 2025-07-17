@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D796BD6D-6A2F-48DE-A622-05AFB3E652F0}|AdminArchivos.Server\\AdminArchivos.Server.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D796BD6D-6A2F-48DE-A622-05AFB3E652F0}|AdminArchivos.Server\\AdminArchivos.Server.csproj|solutionrelative:adminarchivos.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.application\\application\\casosdeuso\\casodeusoarchivo\\casodeusoeliminararchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|solutionrelative:adminarchivos.application\\application\\casosdeuso\\casodeusoarchivo\\casodeusoeliminararchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.infrastructure\\infrastructure\\options\\awsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|solutionrelative:adminarchivos.infrastructure\\infrastructure\\options\\awsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D796BD6D-6A2F-48DE-A622-05AFB3E652F0}|AdminArchivos.Server\\AdminArchivos.Server.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D796BD6D-6A2F-48DE-A622-05AFB3E652F0}|AdminArchivos.Server\\AdminArchivos.Server.csproj|solutionrelative:adminarchivos.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.application\\application\\casosdeuso\\casosdeusousuario\\casodeusousuariobaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -171,19 +171,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CasoDeUsoArchivoObtenerPorId.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoArchivoObtenerPorId.cs",
-              "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoArchivoObtenerPorId.cs",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoArchivoObtenerPorId.cs",
-              "RelativeToolTip": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoArchivoObtenerPorId.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:30:55.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UsuarioValidador.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Validadores\\UsuarioValidador.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Validadores\\UsuarioValidador.cs",
@@ -191,12 +178,11 @@
               "RelativeToolTip": "AdminArchivos.Application\\Application\\Validadores\\UsuarioValidador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T21:17:48.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T21:17:48.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CasoDeUsoSubirArchivo.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoSubirArchivo.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoSubirArchivo.cs",
@@ -204,12 +190,11 @@
               "RelativeToolTip": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoSubirArchivo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:05:29.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:05:29.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CasoDeUsoEliminarArchivo.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoEliminarArchivo.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoEliminarArchivo.cs",
@@ -222,7 +207,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AdminArchivos.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\appsettings.json",
+              "RelativeToolTip": "AdminArchivos.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T19:28:16.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CasoDeUsoArchivoObtenerPorId.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoArchivoObtenerPorId.cs",
+              "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoArchivoObtenerPorId.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoArchivoObtenerPorId.cs",
+              "RelativeToolTip": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoArchivoObtenerPorId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:30:55.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ArchivoValidador.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Validadores\\ArchivoValidador.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Validadores\\ArchivoValidador.cs",
@@ -230,12 +240,11 @@
               "RelativeToolTip": "AdminArchivos.Application\\Application\\Validadores\\ArchivoValidador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:44:22.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:44:22.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CasoDeUsoListarPorEntrada.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoListarPorEntrada.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoListarPorEntrada.cs",
@@ -243,12 +252,11 @@
               "RelativeToolTip": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoListarPorEntrada.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:25:57.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:25:57.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CasoDeUsoDescargarArchivo.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoDescargarArchivo.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoDescargarArchivo.cs",
@@ -256,12 +264,11 @@
               "RelativeToolTip": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoDescargarArchivo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:19:48.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:19:48.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CasoDeUsoIniciarSesion.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoIniciarSesion.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoIniciarSesion.cs",
@@ -269,12 +276,11 @@
               "RelativeToolTip": "AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoIniciarSesion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:03:51.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T22:03:51.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CasoDeUsoUsuarioAlta.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoUsuarioAlta.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoUsuarioAlta.cs",
@@ -282,12 +288,11 @@
               "RelativeToolTip": "AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoUsuarioAlta.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T21:40:48.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T21:40:48.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CasoDeUsoMostrarUsuarios.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoMostrarUsuarios.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoMostrarUsuarios.cs",
@@ -295,12 +300,11 @@
               "RelativeToolTip": "AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoMostrarUsuarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:00:39.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T22:00:39.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IArchivoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Interfaces\\IArchivoRepository.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Interfaces\\IArchivoRepository.cs",
@@ -308,12 +312,11 @@
               "RelativeToolTip": "AdminArchivos.Application\\Application\\Interfaces\\IArchivoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T23:54:21.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T23:54:21.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Archivo.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Domain\\Entidades\\Archivo.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Domain\\Domain\\Entidades\\Archivo.cs",
@@ -321,12 +324,11 @@
               "RelativeToolTip": "AdminArchivos.Domain\\Domain\\Entidades\\Archivo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:08:09.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T19:08:09.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Interfaces\\IUsuarioRepository.cs",
@@ -334,12 +336,11 @@
               "RelativeToolTip": "AdminArchivos.Application\\Application\\Interfaces\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T20:14:20.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T20:14:20.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ArchivoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\ArchivoRepository.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\ArchivoRepository.cs",
@@ -347,12 +348,11 @@
               "RelativeToolTip": "AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\ArchivoRepository.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwDwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T21:32:00.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T21:32:00.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "S3Service.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
@@ -360,12 +360,11 @@
               "RelativeToolTip": "AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T20:27:24.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T20:27:24.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IS3Service.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\Services\\IS3Service.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\Services\\IS3Service.cs",
@@ -373,12 +372,11 @@
               "RelativeToolTip": "AdminArchivos.Infrastructure\\Infrastructure\\Services\\IS3Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T20:23:50.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T20:23:50.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\Program.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Server\\Program.cs",
@@ -386,12 +384,11 @@
               "RelativeToolTip": "AdminArchivos.Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:30:31.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T19:30:31.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AwsOptions.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\Options\\AwsOptions.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\Options\\AwsOptions.cs",
@@ -399,21 +396,7 @@
               "RelativeToolTip": "AdminArchivos.Infrastructure\\Infrastructure\\Options\\AwsOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T20:09:00.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "AdminArchivos.Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\appsettings.json",
-              "RelativeToolTip": "AdminArchivos.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T19:28:16.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T20:09:00.219Z"
             },
             {
               "$type": "Document",
