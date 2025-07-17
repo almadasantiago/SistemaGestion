@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\bin\Debug\net8.0\AdminArchivos.Application.deps.json
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\bin\Debug\net8.0\AdminArchivos.Application.dll
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\bin\Debug\net8.0\AdminArchivos.Application.pdb
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\bin\Debug\net8.0\AdminArchivos.Domain.dll
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\bin\Debug\net8.0\AdminArchivos.Domain.pdb
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\obj\Debug\net8.0\AdminArchivos.Application.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\obj\Debug\net8.0\AdminArchivos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\obj\Debug\net8.0\AdminArchivos.Application.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\obj\Debug\net8.0\AdminArchivos.Application.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\obj\Debug\net8.0\AdminArchivos.Application.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\obj\Debug\net8.0\AdminArc.F5F32DC4.Up2Date
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\obj\Debug\net8.0\AdminArchivos.Application.dll
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\obj\Debug\net8.0\refint\AdminArchivos.Application.dll
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\obj\Debug\net8.0\AdminArchivos.Application.pdb
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Application\obj\Debug\net8.0\ref\AdminArchivos.Application.dll

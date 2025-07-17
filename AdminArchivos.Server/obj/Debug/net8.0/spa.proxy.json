@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:65322",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\..\\adminarchivos.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

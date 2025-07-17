@@ -1,0 +1,11 @@
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\bin\Debug\net8.0\AdminArchivos.Domain.deps.json
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\bin\Debug\net8.0\AdminArchivos.Domain.dll
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\bin\Debug\net8.0\AdminArchivos.Domain.pdb
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\obj\Debug\net8.0\AdminArchivos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\obj\Debug\net8.0\AdminArchivos.Domain.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\obj\Debug\net8.0\AdminArchivos.Domain.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\obj\Debug\net8.0\AdminArchivos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\obj\Debug\net8.0\AdminArchivos.Domain.dll
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\obj\Debug\net8.0\refint\AdminArchivos.Domain.dll
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\obj\Debug\net8.0\AdminArchivos.Domain.pdb
+C:\Users\Santiago\Desktop\Proyectos\AdminArchivos\AdminArchivos.Domain\obj\Debug\net8.0\ref\AdminArchivos.Domain.dll
