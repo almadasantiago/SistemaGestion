@@ -18,12 +18,23 @@ namespace AdminArchivos.Domain.Entidades
         public List<Archivo> Archivos { get; set; } = new List<Archivo>();
         public List <Comentario> Comentarios { get; set; } = new List<Comentario>();
 
+
+        public Entrada (Usuario usuario, string nombre)
+        {
+            Usuario = usuario;
+            UsuarioId = usuario.Id;
+            NombreArchivo = nombre;
+            Estado = EstadoEntrada.EnEspera; // Default state
+            FechaSubida = DateTime.Now;
+            FechaDeActualizacion = DateTime.Now;
+        }
         public Entrada()
         {
             Estado = EstadoEntrada.EnEspera; // Default state
             FechaSubida = DateTime.Now;
             FechaDeActualizacion = DateTime.Now;
         }
+
 
         public Entrada(int id, int idUsuario, string nombreArchivo, EstadoEntrada estado = EstadoEntrada.EnEspera)
         {

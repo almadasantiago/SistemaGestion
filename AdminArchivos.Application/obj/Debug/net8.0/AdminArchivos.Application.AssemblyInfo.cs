@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdminArchivos.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14349136d0c1b35c89d962601e5931ccf6001482")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb24ef81e7fd798df8b1588cbb2ee4ee42a869bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdminArchivos.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdminArchivos.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
