@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AdminArchivos.Domain.Entidades;
+using AdminArchivos.Domain.Enums;
 
 namespace AdminArchivos.Application.Application.Interfaces
 {
@@ -11,7 +12,7 @@ namespace AdminArchivos.Application.Application.Interfaces
     {
         Task<int> CrearEntradaAsync(Usuario usuario, string nombreArchivo);
         Task BorrarEntradaAsync(int idEntrada);
-        Task ActualizarEstadoAsync(int idEntrada);
+        Task ActualizarEstadoAsync(int idEntrada, EstadoEntrada nuevoEstado);
         Task<Entrada> ObtenerEntradaPorIdAsync(int idEntrada);
         Task<Entrada> ObtenerEntradaPorFechaSubidaAsync(DateTime fechaSubida);
         Task<List<Entrada>> ListarEntradasAsync();

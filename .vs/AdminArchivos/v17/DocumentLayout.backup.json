@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.application\\application\\interfaces\\ientradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|solutionrelative:adminarchivos.application\\application\\interfaces\\ientradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.infrastructure\\infrastructure\\basededatos\\entradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|solutionrelative:adminarchivos.infrastructure\\infrastructure\\basededatos\\entradarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D281A3-0272-451D-B6C0-5FF3685E16F7}|AdminArchivos.Domain\\AdminArchivos.Domain.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.domain\\domain\\entidades\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D281A3-0272-451D-B6C0-5FF3685E16F7}|AdminArchivos.Domain\\AdminArchivos.Domain.csproj|solutionrelative:adminarchivos.domain\\domain\\entidades\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.application\\application\\servicios\\servicioautorizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|solutionrelative:adminarchivos.application\\application\\servicios\\servicioautorizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D796BD6D-6A2F-48DE-A622-05AFB3E652F0}|AdminArchivos.Server\\AdminArchivos.Server.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.server\\adminarchivos.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D796BD6D-6A2F-48DE-A622-05AFB3E652F0}|AdminArchivos.Server\\AdminArchivos.Server.csproj|solutionrelative:adminarchivos.server\\adminarchivos.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.infrastructure\\infrastructure\\basededatos\\archivorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|solutionrelative:adminarchivos.infrastructure\\infrastructure\\basededatos\\archivorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.infrastructure\\infrastructure\\basededatos\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|solutionrelative:adminarchivos.infrastructure\\infrastructure\\basededatos\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF515BB4-6C9B-4F33-AFA8-27FB1D0B03FA}|adminarchivos.client\\adminarchivos.client.esproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.client\\src\\pages\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{DF515BB4-6C9B-4F33-AFA8-27FB1D0B03FA}|adminarchivos.client\\adminarchivos.client.esproj|solutionrelative:adminarchivos.client\\src\\pages\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -21,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF515BB4-6C9B-4F33-AFA8-27FB1D0B03FA}|adminarchivos.client\\adminarchivos.client.esproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.client\\src\\components\\sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{DF515BB4-6C9B-4F33-AFA8-27FB1D0B03FA}|adminarchivos.client\\adminarchivos.client.esproj|solutionrelative:adminarchivos.client\\src\\components\\sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.infrastructure\\infrastructure\\basededatos\\archivorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|solutionrelative:adminarchivos.infrastructure\\infrastructure\\basededatos\\archivorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.infrastructure\\infrastructure\\basededatos\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|solutionrelative:adminarchivos.infrastructure\\infrastructure\\basededatos\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.infrastructure\\infrastructure\\services\\s3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,14 +127,6 @@
       "RelativeMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|solutionrelative:adminarchivos.application\\application\\casosdeuso\\casosdeusousuario\\casodeusousuariobaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.application\\application\\servicios\\servicioautorizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|solutionrelative:adminarchivos.application\\application\\servicios\\servicioautorizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6D281A3-0272-451D-B6C0-5FF3685E16F7}|AdminArchivos.Domain\\AdminArchivos.Domain.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.domain\\servicios\\serviciofuncionhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6D281A3-0272-451D-B6C0-5FF3685E16F7}|AdminArchivos.Domain\\AdminArchivos.Domain.csproj|solutionrelative:adminarchivos.domain\\servicios\\serviciofuncionhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6D281A3-0272-451D-B6C0-5FF3685E16F7}|AdminArchivos.Domain\\AdminArchivos.Domain.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.domain\\adminarchivos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D6D281A3-0272-451D-B6C0-5FF3685E16F7}|AdminArchivos.Domain\\AdminArchivos.Domain.csproj|solutionrelative:adminarchivos.domain\\adminarchivos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -143,10 +155,6 @@
       "RelativeMoniker": "D:0:0:{D6D281A3-0272-451D-B6C0-5FF3685E16F7}|AdminArchivos.Domain\\AdminArchivos.Domain.csproj|solutionrelative:adminarchivos.domain\\domain\\entidades\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6D281A3-0272-451D-B6C0-5FF3685E16F7}|AdminArchivos.Domain\\AdminArchivos.Domain.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.domain\\domain\\entidades\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6D281A3-0272-451D-B6C0-5FF3685E16F7}|AdminArchivos.Domain\\AdminArchivos.Domain.csproj|solutionrelative:adminarchivos.domain\\domain\\entidades\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.infrastructure\\adminarchivos.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{97115C59-AB3B-446A-91FE-4ACD4021F54D}|AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj|solutionrelative:adminarchivos.infrastructure\\adminarchivos.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -161,10 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D796BD6D-6A2F-48DE-A622-05AFB3E652F0}|AdminArchivos.Server\\AdminArchivos.Server.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{D796BD6D-6A2F-48DE-A622-05AFB3E652F0}|AdminArchivos.Server\\AdminArchivos.Server.csproj|solutionrelative:adminarchivos.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D796BD6D-6A2F-48DE-A622-05AFB3E652F0}|AdminArchivos.Server\\AdminArchivos.Server.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.server\\adminarchivos.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D796BD6D-6A2F-48DE-A622-05AFB3E652F0}|AdminArchivos.Server\\AdminArchivos.Server.csproj|solutionrelative:adminarchivos.server\\adminarchivos.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE9B436E-C862-46A7-B83C-A8D6B7703F70}|AdminArchivos.Application\\AdminArchivos.Application.csproj|c:\\users\\santiago\\desktop\\proyectos\\adminarchivos\\adminarchivos.application\\adminarchivos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -186,84 +190,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.js",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\pages\\Home.js",
-              "RelativeDocumentMoniker": "adminarchivos.client\\src\\pages\\Home.js",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\pages\\Home.js",
-              "RelativeToolTip": "adminarchivos.client\\src\\pages\\Home.js",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-17T16:34:17.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthContext.js",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\context\\AuthContext.js",
-              "RelativeDocumentMoniker": "adminarchivos.client\\src\\context\\AuthContext.js",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\context\\AuthContext.js",
-              "RelativeToolTip": "adminarchivos.client\\src\\context\\AuthContext.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-17T16:33:00.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "adminarchivos.client\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\App.jsx",
-              "RelativeToolTip": "adminarchivos.client\\src\\App.jsx",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-17T16:28:17.057Z",
+              "Title": "EntradaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\EntradaRepository.cs",
+              "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\EntradaRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\EntradaRepository.cs",
+              "RelativeToolTip": "AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\EntradaRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:35:25.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sidebar.css",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\components\\Sidebar.css",
-              "RelativeDocumentMoniker": "adminarchivos.client\\src\\components\\Sidebar.css",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\components\\Sidebar.css",
-              "RelativeToolTip": "adminarchivos.client\\src\\components\\Sidebar.css",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-17T16:27:53.703Z",
+              "DocumentIndex": 0,
+              "Title": "IEntradaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Interfaces\\IEntradaRepository.cs",
+              "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Interfaces\\IEntradaRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Interfaces\\IEntradaRepository.cs",
+              "RelativeToolTip": "AdminArchivos.Application\\Application\\Interfaces\\IEntradaRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:15:04.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Sidebar.js",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\components\\Sidebar.js",
-              "RelativeDocumentMoniker": "adminarchivos.client\\src\\components\\Sidebar.js",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\components\\Sidebar.js",
-              "RelativeToolTip": "adminarchivos.client\\src\\components\\Sidebar.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-17T16:26:43.907Z",
+              "Title": "AdminArchivos.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\AdminArchivos.Server.csproj",
+              "RelativeDocumentMoniker": "AdminArchivos.Server\\AdminArchivos.Server.csproj",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\AdminArchivos.Server.csproj",
+              "RelativeToolTip": "AdminArchivos.Server\\AdminArchivos.Server.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T17:36:34.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "AdminArchivos.Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\appsettings.json",
-              "RelativeToolTip": "AdminArchivos.Server\\appsettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T19:28:16.187Z",
+              "DocumentIndex": 2,
+              "Title": "Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Domain\\Entidades\\Entrada.cs",
+              "RelativeDocumentMoniker": "AdminArchivos.Domain\\Domain\\Entidades\\Entrada.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Domain\\Entidades\\Entrada.cs",
+              "RelativeToolTip": "AdminArchivos.Domain\\Domain\\Entidades\\Entrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:08:42.895Z",
               "EditorCaption": ""
             },
             {
@@ -281,15 +259,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "S3Service.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
-              "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
-              "RelativeToolTip": "AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ServicioAutorizacion.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Servicios\\ServicioAutorizacion.cs",
+              "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Servicios\\ServicioAutorizacion.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Servicios\\ServicioAutorizacion.cs",
+              "RelativeToolTip": "AdminArchivos.Application\\Application\\Servicios\\ServicioAutorizacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T20:27:24.166Z",
+              "WhenOpened": "2025-07-13T21:05:46.34Z",
               "EditorCaption": ""
             },
             {
@@ -307,7 +285,92 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\pages\\Home.js",
+              "RelativeDocumentMoniker": "adminarchivos.client\\src\\pages\\Home.js",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\pages\\Home.js",
+              "RelativeToolTip": "adminarchivos.client\\src\\pages\\Home.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-17T16:34:17.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AdminArchivos.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\appsettings.json",
+              "RelativeToolTip": "AdminArchivos.Server\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T19:28:16.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sidebar.js",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\components\\Sidebar.js",
+              "RelativeDocumentMoniker": "adminarchivos.client\\src\\components\\Sidebar.js",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\components\\Sidebar.js",
+              "RelativeToolTip": "adminarchivos.client\\src\\components\\Sidebar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-17T16:26:43.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sidebar.css",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\components\\Sidebar.css",
+              "RelativeDocumentMoniker": "adminarchivos.client\\src\\components\\Sidebar.css",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\components\\Sidebar.css",
+              "RelativeToolTip": "adminarchivos.client\\src\\components\\Sidebar.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-17T16:27:53.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "adminarchivos.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\App.jsx",
+              "RelativeToolTip": "adminarchivos.client\\src\\App.jsx",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-17T16:28:17.057Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "AuthContext.js",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\context\\AuthContext.js",
+              "RelativeDocumentMoniker": "adminarchivos.client\\src\\context\\AuthContext.js",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\adminarchivos.client\\src\\context\\AuthContext.js",
+              "RelativeToolTip": "adminarchivos.client\\src\\context\\AuthContext.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-17T16:33:00.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "S3Service.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
+              "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
+              "RelativeToolTip": "AdminArchivos.Infrastructure\\Infrastructure\\Services\\S3Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:27:24.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CasoDeUsoEliminarArchivo.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoEliminarArchivo.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoEliminarArchivo.cs",
@@ -319,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "CasoDeUsoSubirArchivo.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoSubirArchivo.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoSubirArchivo.cs",
@@ -331,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "UsuarioValidador.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Validadores\\UsuarioValidador.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Validadores\\UsuarioValidador.cs",
@@ -343,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "CasoDeUsoArchivoObtenerPorId.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoArchivoObtenerPorId.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoArchivoObtenerPorId.cs",
@@ -355,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "ArchivoValidador.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Validadores\\ArchivoValidador.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Validadores\\ArchivoValidador.cs",
@@ -367,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "CasoDeUsoListarPorEntrada.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoListarPorEntrada.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoListarPorEntrada.cs",
@@ -379,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "CasoDeUsoDescargarArchivo.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoDescargarArchivo.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasoDeUsoArchivo\\CasoDeUsoDescargarArchivo.cs",
@@ -391,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "CasoDeUsoIniciarSesion.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoIniciarSesion.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoIniciarSesion.cs",
@@ -403,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "CasoDeUsoUsuarioAlta.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoUsuarioAlta.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoUsuarioAlta.cs",
@@ -415,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "CasoDeUsoMostrarUsuarios.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoMostrarUsuarios.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoMostrarUsuarios.cs",
@@ -427,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "IArchivoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Interfaces\\IArchivoRepository.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Interfaces\\IArchivoRepository.cs",
@@ -439,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Archivo.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Domain\\Entidades\\Archivo.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Domain\\Domain\\Entidades\\Archivo.cs",
@@ -451,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Interfaces\\IUsuarioRepository.cs",
@@ -463,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "IS3Service.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\Services\\IS3Service.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\Services\\IS3Service.cs",
@@ -475,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\Program.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Server\\Program.cs",
@@ -487,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "AwsOptions.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\Options\\AwsOptions.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\Options\\AwsOptions.cs",
@@ -499,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "CasoDeUsoUsuarioBaja.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoUsuarioBaja.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\CasosDeUso\\CasosDeUsoUsuario\\CasoDeUsoUsuarioBaja.cs",
@@ -511,31 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ServicioAutorizacion.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Servicios\\ServicioAutorizacion.cs",
-              "RelativeDocumentMoniker": "AdminArchivos.Application\\Application\\Servicios\\ServicioAutorizacion.cs",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\Application\\Servicios\\ServicioAutorizacion.cs",
-              "RelativeToolTip": "AdminArchivos.Application\\Application\\Servicios\\ServicioAutorizacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T21:05:46.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ServicioFuncionHash.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Servicios\\ServicioFuncionHash.cs",
-              "RelativeDocumentMoniker": "AdminArchivos.Domain\\Servicios\\ServicioFuncionHash.cs",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Servicios\\ServicioFuncionHash.cs",
-              "RelativeToolTip": "AdminArchivos.Domain\\Servicios\\ServicioFuncionHash.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T20:39:46.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "AdminArchivos.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\AdminArchivos.Domain.csproj",
               "RelativeDocumentMoniker": "AdminArchivos.Domain\\AdminArchivos.Domain.csproj",
@@ -547,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\ApplicationDbContext.cs",
@@ -559,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "ApplicationDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\ApplicationDbContextFactory.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Infrastructure\\BaseDeDatos\\ApplicationDbContextFactory.cs",
@@ -571,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Domain\\Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Domain\\Domain\\Entidades\\Usuario.cs",
@@ -583,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "RolUsuario.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Domain\\Enums\\RolUsuario.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Domain\\Domain\\Enums\\RolUsuario.cs",
@@ -595,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "20250711192005_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Migrations\\20250711192005_InitialCreate.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Migrations\\20250711192005_InitialCreate.cs",
@@ -607,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "20250711193434_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Migrations\\20250711193434_InitialCreate.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Migrations\\20250711193434_InitialCreate.cs",
@@ -619,19 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Entrada.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Domain\\Entidades\\Entrada.cs",
-              "RelativeDocumentMoniker": "AdminArchivos.Domain\\Domain\\Entidades\\Entrada.cs",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Domain\\Entidades\\Entrada.cs",
-              "RelativeToolTip": "AdminArchivos.Domain\\Domain\\Entidades\\Entrada.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswBYAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:08:42.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "Comentario.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Domain\\Entidades\\Comentario.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Domain\\Domain\\Entidades\\Comentario.cs",
@@ -643,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "20250711173437_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Migrations\\20250711173437_InitialCreate.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Migrations\\20250711173437_InitialCreate.cs",
@@ -655,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "AdminArchivos.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\AdminArchivos.Infrastructure.csproj",
@@ -667,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "20250710205708_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Infrastructure\\Migrations\\20250710205708_InitialCreate.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Infrastructure\\Migrations\\20250710205708_InitialCreate.cs",
@@ -679,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "CHANGELOG.md",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\CHANGELOG.md",
               "RelativeDocumentMoniker": "AdminArchivos.Server\\CHANGELOG.md",
@@ -691,19 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "AdminArchivos.Server.csproj",
-              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\AdminArchivos.Server.csproj",
-              "RelativeDocumentMoniker": "AdminArchivos.Server\\AdminArchivos.Server.csproj",
-              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Server\\AdminArchivos.Server.csproj",
-              "RelativeToolTip": "AdminArchivos.Server\\AdminArchivos.Server.csproj",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwB0AAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-08T17:36:34.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "AdminArchivos.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Application\\AdminArchivos.Application.csproj",
               "RelativeDocumentMoniker": "AdminArchivos.Application\\AdminArchivos.Application.csproj",
@@ -715,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "EstadoEntrada.cs",
               "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Proyectos\\AdminArchivos\\AdminArchivos.Domain\\Domain\\Enums\\EstadoEntrada.cs",
               "RelativeDocumentMoniker": "AdminArchivos.Domain\\Domain\\Enums\\EstadoEntrada.cs",
