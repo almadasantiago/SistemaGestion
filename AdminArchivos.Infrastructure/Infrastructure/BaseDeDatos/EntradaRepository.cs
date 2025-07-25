@@ -138,30 +138,31 @@ namespace AdminArchivos.Infrastructure.Infrastructure.BaseDeDatos
                 .ToListAsync();
         }
 
-        public async Task ModificarEntradaAsync(int idEntrada, string NombreArchivo)
+        public async Task ModificarEntradaAsync(int idEntrada, string nuevoNombreArchivo)
         {
             var entrada = await context.Entradas.FindAsync(idEntrada);
             if (entrada == null)
             {
                 throw new RepositorioException();
             }
-            entrada.NombreArchivo = NombreArchivo;
+            entrada.NombreArchivo = nuevoNombreArchivo;
             entrada.FechaDeActualizacion = DateTime.Now;
 
             await context.SaveChangesAsync();
         }
 
-        public async Task<Entrada> ObtenerEntradaPorFechaSubidaAsync(DateTime fechaSubida)
+        public async Task<List<Entrada>> ObtenerEntradasPorFechaSubidaAsync(DateTime fechaSubida)
         {
-            var entrada = await context.Entradas.
-                 Include(e => e.Archivos)
-                 .Include(e => e.Comentarios)
-                 .FirstOrDefaultAsync(e => e.FechaSubida == fechaSubida); 
-            if (entrada == null)
+            var listaEntradas = await context.Entradas
+                .Where(e => e.FechaSubida == fechaSubida)
+                .Include(e => e.Archivos)
+                .Include(e => e.Comentarios)
+                .ToListAsync();
+            if (listaEntradas == null)
             {
                 throw new RepositorioException();
             }
-            return entrada;
+            return listaEntradas;
         }
 
         public async Task<Entrada> ObtenerEntradaPorIdAsync(int idEntrada)

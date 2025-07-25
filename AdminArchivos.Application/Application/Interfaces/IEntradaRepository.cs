@@ -14,7 +14,7 @@ namespace AdminArchivos.Application.Application.Interfaces
         Task BorrarEntradaAsync(int idEntrada);
         Task ActualizarEstadoAsync(int idEntrada, EstadoEntrada nuevoEstado);
         Task<Entrada> ObtenerEntradaPorIdAsync(int idEntrada);
-        Task<Entrada> ObtenerEntradaPorFechaSubidaAsync(DateTime fechaSubida);
+        Task<List<Entrada>> ObtenerEntradasPorFechaSubidaAsync(DateTime fechaSubida);
         Task<List<Entrada>> ListarEntradasAsync();
         Task<List<Entrada>> ListarEntradasEntreFechas(DateTime fecha1, DateTime fecha2);
         Task<List<Entrada>> ListarEntradasPorFechaDecreciente(DateTime fechaSubida); 
