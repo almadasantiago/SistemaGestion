@@ -13,7 +13,7 @@
         {
             FechaComentario = DateTime.Now;
         }
-        public Comentario(int id, Usuario usuario ,Entrada entrada, string contenido)
+        public Comentario(int id, Usuario usuario, Entrada entrada, string contenido)
         {
             Id = id;
             Usuario = usuario;
@@ -23,5 +23,16 @@
             Contenido = contenido;
             FechaComentario = DateTime.Now;
         }
+
+        public Comentario(Usuario usuario, Entrada entrada, string contenido)
+        {
+            IdUsuario = usuario.Id;
+            Usuario = usuario; 
+            IdEntrada = entrada.Id; 
+            Entrada = entrada;
+            Contenido = contenido; 
+            FechaComentario= DateTime.Now;
+        } 
+
     }
 }
