@@ -12,7 +12,7 @@ namespace AdminArchivos.Application.Application.Interfaces
     {
         Task <int> UsuarioAltaAsync(string nombre, string apellido, string email, string password, RolUsuario rol);
         Task UsuarioBajaAsync(int idUsuario);
-        Task UsuarioModificacionAsync(int idUsuario, string nombre, string apellido, string email, string password, RolUsuario rol);
+        Task UsuarioModificacionAsync(int idUsuario, string nombre, string apellido, string email, string password);
         Task<List<Usuario>> ListarUsuariosAsync();
         Task<Usuario> BuscarPorIdAsync(int id);
         Task<Usuario> BuscarPorNombreAsync(string nombre, string apellido);

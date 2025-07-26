@@ -38,7 +38,7 @@ namespace AdminArchivos.Infrastructure.Infrastructure.BaseDeDatos
             }
         }
 
-        public async Task UsuarioModificacionAsync(int idUsuario, string nombre, string apellido, string email, string password, RolUsuario rol)
+        public async Task UsuarioModificacionAsync(int idUsuario, string nombre, string apellido, string email, string password)
         {
             var usuarioModificacion = await context.Usuarios.FindAsync(idUsuario);
             if (usuarioModificacion != null)
@@ -47,7 +47,6 @@ namespace AdminArchivos.Infrastructure.Infrastructure.BaseDeDatos
                 usuarioModificacion.Apellido = apellido;
                 usuarioModificacion.Email = email;
                 usuarioModificacion.Password = password;
-                usuarioModificacion.Rol = rol;
                 context.Update(usuarioModificacion);
                 await context.SaveChangesAsync();
             }
